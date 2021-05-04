@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://bbtora.github.io/robofriends/",
   "dependencies": {
-    "merge": "^1.2.1",
+    "merge": "^2.1.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-scripts": "^2.1.3",
